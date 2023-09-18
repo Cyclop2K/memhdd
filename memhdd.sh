@@ -1,15 +1,5 @@
 #!/bin/bash
-###############################################################
-#Name: Michael White     lecturer's name: Anatoly             #
-#Magen773619:s5:windowsforensics                              #
-#                                                             #  
-#sites used >                                                 #
-#https://chat.openai.com                                      #     
-#https://ansi.gabebanks.net/                                  #
-#https://gabebanks.net/                                       #
-#https://ipapi.co/                                            #
-#https://www.baeldung.com/linux/run-shell-script-remote-ssh   #
-###############################################################
+#Name: Michael White 
 # Colors for the scripts
 red='\033[0;31m'
 green='\033[0;32m'
